@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+env/
+.env
+*.venv
+
+# Logs
+logs/*.log
+logs/*.log.*
+
+# Generated reports (don't commit real audit reports)
+reports/*.txt
+reports/*.json
+reports/*.html
+
+# Sensitive files — NEVER commit these
+*.hive
+SAM
+SYSTEM
+SECURITY
+NTDS.dit
+*.potfile
+*.pot
+
+# Wordlists (too large for git; download separately)
+wordlists/rockyou.txt
+wordlists/*.txt
+!wordlists/example_wordlist.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.bak
+/tmp/

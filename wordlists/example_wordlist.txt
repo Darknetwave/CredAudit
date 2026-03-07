@@ -1,0 +1,51 @@
+# example_wordlist.txt
+# ─────────────────────────────────────────────────────────────────────────────
+# This is a small demonstration wordlist bundled with the audit tool.
+# For real security assessments, use a comprehensive wordlist such as:
+#   - rockyou.txt  (14 million passwords, most widely used)
+#   - SecLists (https://github.com/danielmiessler/SecLists)
+#   - hashcat rule-mutated wordlists
+#
+# Download rockyou.txt:
+#   wget https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt
+# ─────────────────────────────────────────────────────────────────────────────
+password
+123456
+admin
+letmein
+welcome
+qwerty
+monkey
+dragon
+master
+password1
+iloveyou
+sunshine
+princess
+shadow
+superman
+michael
+jessica
+charlie
+donald
+batman
+trustno1
+hello
+freedom
+whatever
+qazwsx
+pass
+login
+Admin@123
+P@ssw0rd
+Summer2023
+Winter2024
+Company123
+Secret!1
+Pass1234
+Admin1234!
+Passw0rd!
+Test1234
+Welcome1
+Ch@ngeme
+Temp1234!

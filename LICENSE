@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2024 Automated Windows Credential Audit Tool
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+───────────────────────────────────────────────────────────────────────────────
+IMPORTANT ETHICAL USE NOTICE
+───────────────────────────────────────────────────────────────────────────────
+This software is provided strictly for:
+  - Authorized security assessments on systems you own or have explicit
+    written permission to test
+  - Cybersecurity education in controlled lab environments
+  - Defensive security research
+
+Using this tool against systems without authorization is illegal under
+the Computer Fraud and Abuse Act (CFAA), the UK Computer Misuse Act,
+and equivalent laws worldwide. The authors accept no responsibility for
+any unauthorized or illegal use of this software.
