@@ -409,7 +409,7 @@ MIT License — see [LICENSE](LICENSE) for full terms.
 
 ## 👤 Author
 
-Built as part of a cybersecurity portfolio project demonstrating practical skills in Windows credential extraction, NTLM hash analysis, Python security tool development, and automated security audit reporting.
+CredAudit was developed as a practical open-source security tool for penetration testers, security auditors, and system administrators to audit Windows local account password strength in authorized environments.
 
 ---
 
