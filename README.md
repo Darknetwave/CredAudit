@@ -381,7 +381,7 @@ sudo gunzip /usr/share/wordlists/rockyou.txt.gz
 
 ### Microsoft Accounts
 
-If the target uses a Microsoft account (Gmail, Outlook etc.), the SAM file contains cached credentials that cannot be cracked with a wordlist. This tool is designed for **local accounts** — standard in corporate environments.
+CredAudit is an open-source security tool designed for penetration testers, security auditors, and system administrators to extract, crack, and audit Windows local account NTLM password hashes — testing both password strength and crackability in authorized environments.
 
 ### File Safety
 
