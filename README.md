@@ -367,9 +367,9 @@ Plain text report for email, documentation, or terminal review.
 
 ## ⚠️ Important Notes
 
-### Use rockyou.txt for Real Auditing
+### Use your own wordlists or rockyou.txt for Real Auditing
 
-The bundled example wordlist is for demo only. For real auditing use rockyou.txt:
+The bundled example wordlist is for demo only. For real auditing use your own wordlists or rockyou.txt:
 
 ```bash
 # Unzip on Kali if needed
