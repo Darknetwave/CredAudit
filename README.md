@@ -411,7 +411,7 @@ MIT License — see [LICENSE](LICENSE) for full terms.
 
 ## 👤 Author
 
-CredAudit was developed as a practical open-source security tool for penetration testers, security auditors, and system administrators to audit Windows local account password strength in authorized environments.
+CredAudit is a practical open-source security tool developed for penetration testers, security auditors, and system administrators to extract, crack, and analyze Windows local account password strength in authorized environments.
 
 ---
 
