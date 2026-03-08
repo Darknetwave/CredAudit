@@ -1,4 +1,5 @@
 <img width="1278" height="722" alt="CredAudit Banner Image" src="https://github.com/user-attachments/assets/58e5e460-4077-4c98-a888-a3e587d6f2a5" />
+
 # 🔐 CredAudit — Automated Windows Credential Audit Tool
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)](https://python.org)
